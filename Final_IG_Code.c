@@ -34,7 +34,7 @@ int isEmpty(struct stack *ptr) // Creating Function And Returning Value For Furt
         return 0;
     }
 }
-//hi
+//hi i am dhruv
 
 void push(struct stack *ptr, int val) //For Pushing Value On The Stack
 {
